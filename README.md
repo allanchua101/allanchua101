@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ac052790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ac052790" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/allan-chua-467402103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/allan-chua-467402103/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/allan-chua-467402103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/allan-chua-467402103/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/983476" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="983476" height="30" width="40" /></a>
 <a href="https://medium.com/@ac052790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ac052790" height="30" width="40" /></a>
 </p>
