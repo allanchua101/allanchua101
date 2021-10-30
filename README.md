@@ -21,6 +21,12 @@
 <a href="https://linkedin.com/in/allan-chua-467402103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/allan-chua-467402103/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/983476" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="983476" height="30" width="40" /></a>
 <a href="https://medium.com/@ac052790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ac052790" height="30" width="40" /></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/2cf9db6d-ead2-4af8-b46b-cd5052ded4c1" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" align="center" height="30" width="40" />
+ </a>
+<a href="https://www.datacamp.com/profile/acdatacamp" target="blank">
+  <img src="https://www.datacamp.com/marketing-backgrounds/favicons/favicon-128.png" align="center" height="40" width="40" />
+ </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
