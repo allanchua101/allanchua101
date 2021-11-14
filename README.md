@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **allanchua.officefiles@gmail.com**
 
-### Open Source Baby
 
-[<img alt="alt_text" width="500px" src="https://i.imgur.com/W1lha0W.jpeg" />](https://pypi.org/project/ipynta/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
