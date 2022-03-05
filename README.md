@@ -1,15 +1,13 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=allanchua101&label=Profile%20views&color=0e75b6&style=flat" alt="allanchua101" /> </p>
 <h1 align="center">Hi 👋, I'm Allan Chua</h1>
 <h3 align="center">I am passionate about AI (ML, CV, DL), DevOps, AWS and Programming!</h3>
+<img src="https://github.com/allanchua101/allanchua101/blob/main/assets/aws_community_builder.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allanchua101&label=Profile%20views&color=0e75b6&style=flat" alt="allanchua101" /> </p>
+- 💬 Ask me about **DevOps, AI/ML, AWS and Serverless Architecture**
+- 📝 I regularly write articles on [https://medium.com/@ac052790](https://medium.com/@ac052790)
+- 📫 How to reach me **allanchua.officefiles@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allanchua101" alt="allanchua101" /></a> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@ac052790](https://medium.com/@ac052790)
-
-- 💬 Ask me about **TeamCity, AWS, Terraform and Serverless using AWS Lambda**
-
-- 📫 How to reach me **allanchua.officefiles@gmail.com**
 
 
 
