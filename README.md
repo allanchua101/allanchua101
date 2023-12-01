@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allanchua101&label=Profile%20views&color=0e75b6&style=flat" alt="allanchua101" /> </p>
 <h1 align="center">Hi 👋, I'm Allan Chua</h1>
 <h3 align="center">I am passionate about AI (ML, CV, DL), DevOps, AWS and Programming!</h3>
 <img src="https://github.com/allanchua101/allanchua101/blob/main/assets/aws_community_builder.png" />
